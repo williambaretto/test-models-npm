@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "wilhem",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williambaretto/npm-wilm-models.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "bugs": {
+    "url": "https://github.com/williambaretto/npm-wilm-models/issues"
+  },
+  "homepage": "https://github.com/williambaretto/npm-wilm-models#readme"
 }
