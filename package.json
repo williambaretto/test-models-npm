@@ -1,0 +1,11 @@
+{
+  "name": "npm-wilm-models",
+  "version": "1.0.0",
+  "description": "wilm models here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wilhem",
+  "license": "ISC"
+}
